@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Orbitron', sans-serif;
+}
+.first--h1{
+    color: rgb(197, 16, 16);
+    font-size: 100px;
+    font-weight: bold;
+
+}
+
+.second--h1{
+    color: yellow;
+    margin-top: 100px;
+}
+#btn{
+    cursor: pointer;
+    margin-top: 50px;
+    border: none;
+    background-color: rgb(197, 16, 16);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: brown;
+}
+.first--div{
+    margin-top: 60px;
+    border: 2px solid white;
+    background-color: rgb(197, 16, 16);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-bottom: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.first--div:hover{
+    background-color: brown;
+}
